@@ -1,0 +1,8 @@
+Oryginalny 11_S╠üLA╠ĘSKIE.csv jest dostępny w folderze /OriginalData.
+
+Variables:
+- Dni od zakupu - int, informacja po ilu dniach od zakupu klient wystawia ocenę.
+- Marka - str, jedna z pięciu marek producenta lodówek.
+- Wiek kupującego - float, 402 dane prawidłowe, 51 danych NaN.
+- Płeć kupującego - str, 'M' lub 'K', w wpliku jest jedna pozycja oznaczona 'bd', nie jest ona brana pod uwagę w histogramach.
+- Ocena - float, w skali od 0 do 5.
